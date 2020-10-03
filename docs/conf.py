@@ -39,7 +39,7 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = "Adafruit VL53L0X Library"
+project = "Adafruit LIS3DH Library"
 copyright = "2017 Tony DiCola"
 author = "Tony DiCola"
 
